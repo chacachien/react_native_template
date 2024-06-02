@@ -9,7 +9,7 @@ export default function Page() {
       <Link href='/register/' asChild>
         <Button title='Register'/>
       </Link>
-      <Link href='/(tabs)/one' asChild>
+      <Link href='/(tabs)' asChild>
         <Button title='Tabs'/>
       </Link>
     </View>
